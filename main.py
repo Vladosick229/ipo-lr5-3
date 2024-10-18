@@ -5,4 +5,4 @@ with open('text.txt', 'r', encoding='utf-8') as f:#чтение информац
 words = spis.split()#определение слов
 
 length = len(words)#определение количества слов
-print('КОличество слов равно:',length)#вывод результата
+print('Количество слов равно:',length)#вывод результата
